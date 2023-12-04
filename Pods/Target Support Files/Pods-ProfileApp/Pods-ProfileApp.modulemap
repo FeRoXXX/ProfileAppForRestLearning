@@ -1,0 +1,6 @@
+framework module Pods_ProfileApp {
+  umbrella header "Pods-ProfileApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
